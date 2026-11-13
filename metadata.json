@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Horizon",
+  "description": "God View Global Intelligence Command Center for multi-source geopolitical surveillance, tactical mapping, and press dispatch monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
